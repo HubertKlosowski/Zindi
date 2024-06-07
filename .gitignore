@@ -162,3 +162,4 @@ data
 result
 transform
 *.pt
+catboost_info
